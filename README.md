@@ -7,11 +7,11 @@ The system helps farmers and researchers identify diseases early and estimate se
 ### Objective
 Diseases of mango leaves are some of the biggest threats agri-business people and farmers have to deal with to improve yields and produce quality mangoes. The existing manual inspection 
 technique is time-consuming and not very accurate, especially for small-scale farmers who may not have adequate knowledge. The solution further proposed in this work is designed to use image 
-recognition and deep learning techniques to diagnose common mango leaf diseases to mitigate the continued spread of diseases, and consequently the subsequent losses of mango crops.
+recognition and deep learning techniques to diagnose common mango leaf diseases to mitigate the continued spread of diseases, and consequently, the subsequent losses of mango crops.
 
 ### Features
 - Image preprocessing (noise removal, resizing, normalization).  
-- Disease classification using **CNN / YOLOv8 / CNN **.  
+- Disease classification using ** CNN / YOLOv8 / CNN **.  
 - Severity estimation (high, moderate, low).  
 - Visualization of infected areas on mango leaves.  
 - Performance evaluation with accuracy, precision, recall, and F1-score.
