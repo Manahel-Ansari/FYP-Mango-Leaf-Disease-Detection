@@ -11,7 +11,7 @@ recognition and deep learning techniques to diagnose common mango leaf diseases 
 
 ### Features
 - Image preprocessing (noise removal, resizing, normalization).  
-- Disease classification using ** CNN / YOLOv8 / CNN **.  
+- Disease classification using **CNN / YOLOv8 / CNN**.  
 - Severity estimation (high, moderate, low).  
 - Visualization of infected areas on mango leaves.  
 - Performance evaluation with accuracy, precision, recall, and F1-score.
